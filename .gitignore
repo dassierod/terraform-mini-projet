@@ -1,0 +1,5 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+ip_ec2.txt
